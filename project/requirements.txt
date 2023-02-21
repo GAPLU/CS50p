@@ -1,0 +1,14 @@
+math
+os
+random
+sys
+time
+io
+PIL
+requests
+selenium
+openai
+genanki
+re
+PyPDF2
+gtts
